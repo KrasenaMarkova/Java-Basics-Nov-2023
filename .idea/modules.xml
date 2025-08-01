@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/01.SoftUni Basics.iml" filepath="$PROJECT_DIR$/.idea/01.SoftUni Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics-reshenia/1.First Steps in Coding - Ex/1.First Steps in Coding - Ex.iml" filepath="$PROJECT_DIR$/Basics-reshenia/1.First Steps in Coding - Ex/1.First Steps in Coding - Ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics-reshenia/1.First Steps in Coding - Lab/1.First Steps in Coding - Lab.iml" filepath="$PROJECT_DIR$/Basics-reshenia/1.First Steps in Coding - Lab/1.First Steps in Coding - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics-reshenia/2.Conditional Statements - Ex/2.Conditional Statements - Ex.iml" filepath="$PROJECT_DIR$/Basics-reshenia/2.Conditional Statements - Ex/2.Conditional Statements - Ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics-reshenia/2.Conditional Statements - Lab/2.Conditional Statements - Lab.iml" filepath="$PROJECT_DIR$/Basics-reshenia/2.Conditional Statements - Lab/2.Conditional Statements - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics-reshenia/3.Conditional Statements Advanced - Lab/3.Conditional Statements Advanced - Lab.iml" filepath="$PROJECT_DIR$/Basics-reshenia/3.Conditional Statements Advanced - Lab/3.Conditional Statements Advanced - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics-reshenia/Exam/3.Conditional Statements Advanced Ex/3.Conditional Statements Advanced Ex.iml" filepath="$PROJECT_DIR$/Basics-reshenia/Exam/3.Conditional Statements Advanced Ex/3.Conditional Statements Advanced Ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics-reshenia/4.For Ex/4.For Ex.iml" filepath="$PROJECT_DIR$/Basics-reshenia/4.For Ex/4.For Ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics-reshenia/4.For Lab/4.For Lab.iml" filepath="$PROJECT_DIR$/Basics-reshenia/4.For Lab/4.For Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics-reshenia/5.While Ex/5.While Ex.iml" filepath="$PROJECT_DIR$/Basics-reshenia/5.While Ex/5.While Ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics-reshenia/5.While Lab/5.While Lab.iml" filepath="$PROJECT_DIR$/Basics-reshenia/5.While Lab/5.While Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics-reshenia/6. Nested Loops Ex/6. Nested Loops Ex.iml" filepath="$PROJECT_DIR$/Basics-reshenia/6. Nested Loops Ex/6. Nested Loops Ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics-reshenia/6.Nested Loops Lab/6.Nested Loops Lab.iml" filepath="$PROJECT_DIR$/Basics-reshenia/6.Nested Loops Lab/6.Nested Loops Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics-reshenia/Exam/Exam.iml" filepath="$PROJECT_DIR$/Basics-reshenia/Exam/Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics-reshenia/Exam 09122023/Exam 09122023.iml" filepath="$PROJECT_DIR$/Basics-reshenia/Exam 09122023/Exam 09122023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics-reshenia/Exam-Preparation/Exam-Preparation.iml" filepath="$PROJECT_DIR$/Basics-reshenia/Exam-Preparation/Exam-Preparation.iml" />
+    </modules>
+  </component>
+</project>
